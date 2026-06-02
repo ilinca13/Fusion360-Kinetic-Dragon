@@ -23,7 +23,30 @@ Mecanismul se bazează pe transformarea mișcării de rotație într-o mișcare 
 - **Contact Sets:** Utilizate pentru a valida interacțiunea reală dintre dinții angrenajelor.
 - **Parametric Design:** Ajustarea toleranțelor pentru componentele snap-fit.
 
-## 📂 Structura Repository-ului
+## 📂 Modul de funcționare 
+
+
+
+
+
+
+
+https://github.com/user-attachments/assets/8ce9b104-1642-4b2a-8195-49fe472c6384
+
+
+
+
+
+https://github.com/user-attachments/assets/30e17f99-9f20-43eb-bb68-f1d8aa2a1f71
+
+
+
+
+
+
+
+
+
 - `/Models`: Fișierele `.f3d` (Fusion 360) și `.step`.
 - `/STL`: Fișierele pregătite pentru slicing și printare 3D.
 - `/Simulations`: Capturi de ecran sau video cu studiul mișcării.
