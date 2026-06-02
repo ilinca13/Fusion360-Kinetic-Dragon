@@ -27,11 +27,11 @@ Mecanismul se bazează pe transformarea mișcării de rotație într-o mișcare 
 
 
 
-<video src="https://github.com/user-attachments/assets/8ce9b104-1642-4b2a-8195-49fe472c6384" width="100%" controls>
+<video src="https://github.com/user-attachments/assets/8ce9b104-1642-4b2a-8195-49fe472c6384" width="100%" controls playsinline autoplay muted loop>
   Browserul tău nu suportă redarea video.
 </video>
 
-<video src="https://github.com/user-attachments/assets/30e17f99-9f20-43eb-bb68-f1d8aa2a1f71" width="100%" controls>
+<video src="https://github.com/user-attachments/assets/30e17f99-9f20-43eb-bb68-f1d8aa2a1f71" width="100%" controls playsinline autoplay muted loop>
   Browserul tău nu suportă redarea video.
 </video>
 
